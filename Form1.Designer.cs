@@ -88,7 +88,7 @@ namespace GUI_Friendly_PWM_ADC_GPIO_Application
             // stopPWM
             // 
             this.stopPWM.Image = ((System.Drawing.Image)(resources.GetObject("stopPWM.Image")));
-            this.stopPWM.Location = new System.Drawing.Point(476, 132);
+            this.stopPWM.Location = new System.Drawing.Point(579, 17);
             this.stopPWM.Name = "stopPWM";
             this.stopPWM.Size = new System.Drawing.Size(100, 104);
             this.stopPWM.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -278,7 +278,7 @@ namespace GUI_Friendly_PWM_ADC_GPIO_Application
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.AutoScroll = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.ClientSize = new System.Drawing.Size(741, 472);
+            this.ClientSize = new System.Drawing.Size(827, 472);
             this.Controls.Add(this.Tabs);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
