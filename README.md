@@ -1,5 +1,5 @@
 # GUI-Friendly-PWM_ADC_GPIO-Application
-One of the first Windows Embedded applications developed for Toradex and for other supporting hardware diagnosis
+One of the first Windows Embedded applications developed for Toradex Colibri VF50 and for other supporting hardware diagnosis
 
 #Some images of the development application
 
