@@ -1,0 +1,49 @@
+{
+  "generator": "repository-static-triage",
+  "version": "1.0",
+  "repository": "vikasdotvivek/GUI-Friendly-PWM_ADC_GPIO-Application",
+  "revision": "1eff1a32da3793d46f5d1740a7fb232c102e4923",
+  "tracked_files": 7,
+  "scanned": [
+    {
+      "path": "AssemblyInfo.cs",
+      "lines": 36,
+      "bytes": 1528
+    },
+    {
+      "path": "Form1.cs",
+      "lines": 208,
+      "bytes": 6175
+    },
+    {
+      "path": "Program.cs",
+      "lines": 19,
+      "bytes": 391
+    },
+    {
+      "path": "TdxAllLibraries.cs",
+      "lines": 2720,
+      "bytes": 117873
+    }
+  ],
+  "skipped": [
+    {
+      "path": ".github/workflows/code-improvement-review.yml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "Form1.Designer.cs",
+      "reason": "generated/vendor/review path"
+    },
+    {
+      "path": "README.md",
+      "reason": "non-source format; content not audited"
+    }
+  ],
+  "manifests": [],
+  "conventional_test_paths": [],
+  "findings": [],
+  "total_findings": 0,
+  "findings_omitted": 0,
+  "execution": "No repository code, tests, builds or hardware were executed."
+}
